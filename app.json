@@ -1,0 +1,17 @@
+{
+    "Shipper": {
+        "Url": "https://al-style.kz",
+        "AccessToken": "LfoeIPaaVSBgeZPJu4VhM_BxGK96AXLz"
+    },
+    "Distributor": {
+        "Yml": "https://al-style.kz/upload/catalog_export/al_style_catalog.php",
+        "Api": "https://api.al-style.kz/api/elements-pagination?access-token=LfoeIPaaVSBgeZPJu4VhM_BxGK96AXLz&additional_fields=brand,certificates,weight,description,warranty&limit=250"
+    },
+    "Database": {
+        "DSN": "storedb:Q9xr4mas@_@/storedb"
+    },
+    "Currency": {
+        "Url": "http://www.cbr.ru/scripts/XML_daily.asp"
+    }
+
+}
